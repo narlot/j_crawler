@@ -1,0 +1,29 @@
+{
+  "name": "fuel-maps-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/pwa": "^3.3.5",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "nuxt-buefy": "^0.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narlot/fuel-maps-app.git"
+  },
+  "author": "Waka Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narlot/fuel-maps-app/issues"
+  },
+  "homepage": "https://github.com/narlot/fuel-maps-app#readme",
+  "devDependencies": {}
+}
