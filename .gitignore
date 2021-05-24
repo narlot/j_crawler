@@ -91,3 +91,4 @@ sw.*
 
 # package files
 package-lock.json
+.gitignore
